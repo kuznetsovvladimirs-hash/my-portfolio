@@ -4,7 +4,7 @@
 
 ## 📞 Контакты
 - **Telegram:** @Portfolio_Dev_kz_Bot
-- **Портфолио:** [ссылка на твой HTML-сайт]
+- **Портфолио:** https://kartygames.ru/portfolio/portfolio.html)
 
 ## 🛠️ Мои технологии
 - Python, JavaScript
