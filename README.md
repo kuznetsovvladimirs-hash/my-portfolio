@@ -5,7 +5,8 @@
 ## 📞 Контакты
 - **Telegram:** @Portfolio_Dev_kz_Bot
 - **Портфолио:** https://kartygames.ru/portfolio/portfolio.html)
-
+- **Игровая платформа:** https://kartygames.ru
+- 
 ## 🛠️ Мои технологии
 - Python, JavaScript
 - Telegram Bot API 
